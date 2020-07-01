@@ -23,7 +23,7 @@ body {
 
 .header-title {
   font-size: 140px;
-  color: white;
+  color: #fff;
   text-transform: uppercase;
   font-weight: 500;
   margin: auto;
@@ -38,14 +38,14 @@ body {
 
 .content {
   font-size: 0;
-  width: 790px;
+  width: 880px;
   margin: 100px auto 50px;
 }
 
 .card {
   width: 350px;
   margin-bottom: 60px;
-  margin-right: 90px;
+  margin-right: 180px;
   padding: 45px 45px 70px;
   display: inline-block;
   box-shadow: 4px 4px 5px rgba(250, 50, 50, .4);
